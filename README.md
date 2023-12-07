@@ -3,7 +3,7 @@
 Welcome to the Securify Sign-Up Page repository! This repository contains the source code for a fictional product named Securify, and it provides a simple sign-up page for users interested in using this product.
 
 # Table of Contents
-- Introduction
+* Introduction
 * Features
 * Getting Started
 * Usage
