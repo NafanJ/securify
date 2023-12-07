@@ -5,7 +5,7 @@ Welcome to the Securify Sign-Up Page repository! This repository contains the so
 # Table of Contents
 - Introduction
 * Features
-+ Getting Started
+* Getting Started
 * Usage
 * Contributing
 * License
