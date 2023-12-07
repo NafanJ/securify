@@ -14,7 +14,7 @@ Welcome to the Securify Sign-Up Page repository! This repository contains the so
 Securify is a fictional product designed to showcase a secure and user-friendly sign-up page. This repository is intended for educational and demonstration purposes only. The sign-up page incorporates best practices for web security and user experience.
 
 # Features
-#* User-friendly Interface: The sign-up page is designed with a clean and intuitive user interface to enhance the user experience.
+* User-friendly Interface: The sign-up page is designed with a clean and intuitive user interface to enhance the user experience.
 
 * Form Validation: Input fields are validated on the client side to ensure that users provide valid information during the sign-up process.
 
