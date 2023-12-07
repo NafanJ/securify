@@ -3,22 +3,22 @@
 Welcome to the Securify Sign-Up Page repository! This repository contains the source code for a fictional product named Securify, and it provides a simple sign-up page for users interested in using this product.
 
 # Table of Contents
-*Introduction
-*Features
-*Getting Started
-*Usage
-*Contributing
-*License
+* Introduction
+* Features
+* Getting Started
+* Usage
+* Contributing
+* License
 
 # Introduction
 Securify is a fictional product designed to showcase a secure and user-friendly sign-up page. This repository is intended for educational and demonstration purposes only. The sign-up page incorporates best practices for web security and user experience.
 
 # Features
-#*User-friendly Interface: The sign-up page is designed with a clean and intuitive user interface to enhance the user experience.
+#* User-friendly Interface: The sign-up page is designed with a clean and intuitive user interface to enhance the user experience.
 
-*Form Validation: Input fields are validated on the client side to ensure that users provide valid information during the sign-up process.
+* Form Validation: Input fields are validated on the client side to ensure that users provide valid information during the sign-up process.
 
-*Security Measures: The code implements basic security measures to protect against common web vulnerabilities such as cross-site scripting (XSS) and cross-site request forgery (CSRF).
+* Security Measures: The code implements basic security measures to protect against common web vulnerabilities such as cross-site scripting (XSS) and cross-site request forgery (CSRF).
 
 # Getting Started
 To get started with the Securify Sign-Up Page, follow these steps:
