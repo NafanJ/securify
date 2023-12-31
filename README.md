@@ -16,7 +16,7 @@ Securify is a fictional product designed to showcase a secure and user-friendly 
 To get started with the Securify Sign-Up Page, follow these steps:
 
 1. Clone the repository to your local machine:
-git clone https://github.com/nafanj/securify.git
+`git clone https://github.com/nafanj/securify.git`
 
 2. Open the index.html file in a web browser to view the sign-up page.
 
